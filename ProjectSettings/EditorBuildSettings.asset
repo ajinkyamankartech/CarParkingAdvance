@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/CarParkingTemplate3/Scenes/Day_Car.unity
     guid: e3e8947f14328e545b1c6146ecd8e008
+  - enabled: 1
+    path: Assets/CarParkingTemplate3/Scenes/Day_Car 1.unity
+    guid: fb18c74d0a971477ba0b0316f4638051
   m_configObjects: {}
